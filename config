@@ -1,6 +1,6 @@
 [DEFAULT]
 user=ocid1.user.oc1..aaaaaaaamtupyrripxtaolddqqbnhscjc725ykyxqtahitomytpw3se3phoq
-fingerprint=e3:20:b1:59:83:ff:15:0b:0d:a9:0b:ca:a2:db:2b:dc
+fingerprint=d0:23:4f:80:61:17:99:f6:67:f3:c1:07:c7:48:b1:0b
 tenancy=ocid1.tenancy.oc1..aaaaaaaa5nznrb4iskmbx3kbgtt6pi7xo7kx3ue776soxfekfwtv5ihi47jq
 region=us-ashburn-1
-key_file=Public.pem # TODO
+key_file=key.pem # TODO
