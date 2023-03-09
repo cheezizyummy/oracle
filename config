@@ -1,1 +1,1 @@
-[DEFAULT]user=ocid1.user.oc1..aaaaaaaamtupyrripxtaolddqqbnhscjc725ykyxqtahitomytpw3se3phoqfingerprint=d0:23:4f:80:61:17:99:f6:67:f3:c1:07:c7:48:b1:0btenancy=ocid1.tenancy.oc1..aaaaaaaa5nznrb4iskmbx3kbgtt6pi7xo7kx3ue776soxfekfwtv5ihi47jqregion=us-ashburn-1key_file=<Public.pem> # TODO
+[DEFAULT]user=ocid1.user.oc1..aaaaaaaamtupyrripxtaolddqqbnhscjc725ykyxqtahitomytpw3se3phoqfingerprint=d0:23:4f:80:61:17:99:f6:67:f3:c1:07:c7:48:b1:0btenancy=ocid1.tenancy.oc1..aaaaaaaa5nznrb4iskmbx3kbgtt6pi7xo7kx3ue776soxfekfwtv5ihi47jqregion=us-ashburn-1key_file=Public.pem # TODO
