@@ -3,4 +3,4 @@ user=ocid1.user.oc1..aaaaaaaamtupyrripxtaolddqqbnhscjc725ykyxqtahitomytpw3se3pho
 fingerprint=d0:23:4f:80:61:17:99:f6:67:f3:c1:07:c7:48:b1:0b
 tenancy=ocid1.tenancy.oc1..aaaaaaaa5nznrb4iskmbx3kbgtt6pi7xo7kx3ue776soxfekfwtv5ihi47jq
 region=us-ashburn-1
-key_file=key.pem # TODO
+key_file=oci_private_key.pem # TODO
